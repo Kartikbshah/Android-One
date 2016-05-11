@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fibonacci Series</string>
+    <string name="error_internet">Please check your internet connection and try again!</string>
+    <string name="error_time_out">Request timeout or server error, please try again!</string>
+</resources>
